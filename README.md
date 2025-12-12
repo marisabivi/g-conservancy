@@ -1,2 +1,2 @@
 # galapagos-conservancy
-Redesigned Galapagos Conservancy Website
+Redesigned Galapagos Conservancy Website (School Project)
